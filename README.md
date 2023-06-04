@@ -1,3 +1,8 @@
+# 2do
+This is a learning app that demonstrates React hooks (setState, useState) and code refactoring. It takes advantage of the modularity that React hooks make possible by allowing the state in a function to be accessed through a different one. 
+
+There are additional opportunities to style the app (the current style is admittedly *meh*), and to make it even more modular (imagine breaking out the logic for adding and removing the list items).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# 2do
+
